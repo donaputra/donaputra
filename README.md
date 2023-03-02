@@ -6,7 +6,7 @@ Hi there 👋, I'm Dona Putra, a software engineer in test and GitHub user! Here
 
 I am a graduate of Pakuan Bogor University majoring in Computer Science. I am also a graduate of the Alterra Academy immersive program as a Quality Engineer. I am enthusiastic about the quality of systems or software, strong in analyzing and working with details. I love to learn and build something new, productive, innovative and creative.
 
-* **I am interested in , Analysis, Creating manual and Automated test cases**
+- I am interested in Analysis, Creating manual and Automated test cases
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉
 - Outside tech, 📖 I love watching movies, 🖌️ do editing photos and videos, 🎵 listen to music, and 🌴 explore nature outdoors.
