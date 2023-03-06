@@ -34,6 +34,6 @@ I am a graduate of Pakuan Bogor University majoring in Computer Science. I am al
 
 Here is my educational background:
 
-- Bachelor's degree in Computer Science from Pakuan University.
 - Quality Engineer Imersive Program from Alterra Academy.
+- Bachelor's degree in Computer Science from Pakuan University.
 
