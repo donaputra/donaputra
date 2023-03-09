@@ -6,10 +6,10 @@ Hi there 👋, I'm Dona Putra, a software engineer in test and GitHub user! Here
 
 I have experience in Information Technology, specifically in Software Development in Test. Developed both manual and automation testing skills, as well as debugging software. Familiar with the software development life cycle and various agile methodologies. Used Java and Gherkin languages to develop web automation tests with the Selenium framework, and API automation tests with RestAssured. Proficient in using tools such as Postman, Intellij Idea, and JMeter to support my tasks.
 
-- I am interested in Analysis, Creating Manual and Automated tests
-- I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉
-- Outside tech, 📖 I love watching movies, 🖌️ do editing photos and videos, 🎵 listen to music, and 🌴 explore nature outdoors.
+- I am interested in analysis and creating manual and automated tests
+- I am looking forward to collaborating on open-source projects.
+- Feel free to ask me anything, and I'll be happy to help, as long as it's within my knowledge 😉
+- Outside of tech, I love watching movies, editing photos and videos, listening to music, and exploring nature outdoors.
 
 ## 🤝 Connect with me
 <p align="center">
