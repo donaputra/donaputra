@@ -15,7 +15,7 @@ I have experience in Information Technology, specifically in Software Developmen
 <p align="center">
 	<a href="mailto:donaputrapor@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://linkedin.com/in/dona-putra-por-270465188"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://wa.me/+6282232529804"><img src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://wa.me/+6289614810873"><img src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.instagram.com/dona_putra/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 	
 </p>
